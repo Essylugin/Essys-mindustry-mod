@@ -1,0 +1,6 @@
+name: "essys-mod"
+displayName: "Essy’s mod"
+author: Essy
+description: "A simple mod that adds basic features"
+version: "0.1"
+minGameVersion: "146"
