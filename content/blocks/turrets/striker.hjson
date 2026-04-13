@@ -30,7 +30,7 @@ shoot: {
   shots: 6
   spread: 10
   shotDelay: 3
-  ammoConsumptionMultiplier : 2
+  ammoUse : 2
 }
  
 requirements: [
